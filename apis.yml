@@ -1,7 +1,12 @@
 aid: ppg-industries
-url: https://raw.githubusercontent.com/api-evangelist/ppg-industries/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/ppg-industries/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.ppg-industries.com
+description: >-
+  PPG Industries is a global supplier of paints, coatings, and specialty materials
+  serving customers in construction, consumer products, industrial, transportation
+  markets, and aftermarkets.
