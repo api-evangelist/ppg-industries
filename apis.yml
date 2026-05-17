@@ -7,7 +7,7 @@ description: >-
   repository captures any APIs, developer tools, and machine-readable
   API artifacts associated with PPG Industries. As of the last review,
   no public APIs or developer portal have been identified.
-type: Contract
+kind: contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Fortune 500
