@@ -8,7 +8,7 @@ description: >-
   API artifacts associated with PPG Industries. As of the last review,
   no public APIs or developer portal have been identified.
 kind: contract
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Fortune 500
   - Manufacturing
