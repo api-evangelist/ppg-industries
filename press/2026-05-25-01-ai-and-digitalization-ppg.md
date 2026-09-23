@@ -1,7 +1,9 @@
 ---
 title: AI and Digitalization | PPG
 url: https://www.ppg.com/en-US/about-ppg/innovation/ai-and-digitalization
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"PPG Industries" press release artificial intelligence'
 position: 1
 source: serpapi-google
